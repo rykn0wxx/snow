@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_42880_csmbpi.zng_1_6</name>
+        <script><![CDATA[document.writeln('<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.js"></script>');]]></script>
+        <script_name>zng_1_6</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-04 09:54:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>45a146260f00320098e3c09ce1050e8a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_42880_csmbpi.zng_1_6</sys_name>
+        <sys_package display_value="CSM BPI Automation" source="x_42880_csmbpi">3307b5220f00320098e3c09ce1050e9d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CSM BPI Automation">3307b5220f00320098e3c09ce1050e9d</sys_scope>
+        <sys_update_name>sys_ui_script_45a146260f00320098e3c09ce1050e8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-04 10:59:19</sys_updated_on>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>

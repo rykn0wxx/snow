@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>true</direct>
+        <endpoint>x_42880_csmbpi_zindex.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	
+	
+</j:jelly>]]></html>
+        <name>zindex</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-04 09:31:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>da2cf9a20f00320098e3c09ce1050e95</sys_id>
+        <sys_mod_count>47</sys_mod_count>
+        <sys_name>zindex</sys_name>
+        <sys_package display_value="CSM BPI Automation" source="x_42880_csmbpi">3307b5220f00320098e3c09ce1050e9d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CSM BPI Automation">3307b5220f00320098e3c09ce1050e9d</sys_scope>
+        <sys_update_name>sys_ui_page_da2cf9a20f00320098e3c09ce1050e95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-04 17:42:02</sys_updated_on>
+    </sys_ui_page>
+</record_update>
